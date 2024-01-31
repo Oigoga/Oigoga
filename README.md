@@ -10,7 +10,7 @@
   </a>or <a href="https://twitter.com/oigoga_a">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>  </h4>
-<h4>- 📌 I'm open to Internship Roles</h4>
+<h4>- 📌 I'm open to Junior Roles</h4>
 
 <h3>🛠 Tech Stack: </h3>
 <div>
